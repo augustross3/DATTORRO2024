@@ -14,9 +14,7 @@ Furthermore, the development in Gen opens up exciting possibilities for future a
 
 **Usage**
 
-There are currently two available forms in this repo. The .gendsp file contains the raw system along with all parameters set in place with their respective min/max values. This version can dropped into MaxMSP projects for quick use or examination. The .mxf file is a standalone visual patcher that can be used to test out and explore the algorithm with your own files or the ones provided in MaxMSP. This version is pre-built and therefor cannot be examined.
+There are currently a 4 forms in this repo. The .gendsp file contains the raw system along with all parameters set in place with their respective min/max values. This version can dropped into MaxMSP projects for quick use or examination. The .mxf file is a standalone visual patcher that can be used to test out and explore the algorithm with your own files or the ones provided in MaxMSP. This version is pre-built and therefor cannot be examined. The Max external (to be placed in the "packages" folder of your MaxMSP installation) will make the system available as an object that can be quick called upon as "dattorro2024~". All controls will still be accessible via arguments. Finally, the raw C++ export for use in a JUCE application is in the folder "rnbo-export".
 
 **TODO**
-- Max External Object
-- C++ Source Code
 - Web Demo

@@ -14,7 +14,7 @@ Furthermore, the development in Gen opens up exciting possibilities for future a
 
 **Usage**
 
-There are currently two available forms in this repo. The .gendsp file contains the raw system along with all parameters set in place with their respective min/max values. This version can dropped into MaxMSP projects for quick use or examined. The .mxf file is a standalone visual patcher that can be used to test out and explore the algorithm with your own files or the ones provided in MaxMSP. This version is pre-built and therefor cannot be examined.
+There are currently two available forms in this repo. The .gendsp file contains the raw system along with all parameters set in place with their respective min/max values. This version can dropped into MaxMSP projects for quick use or examination. The .mxf file is a standalone visual patcher that can be used to test out and explore the algorithm with your own files or the ones provided in MaxMSP. This version is pre-built and therefor cannot be examined.
 
 **TODO**
 - Max External Object

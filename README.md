@@ -13,6 +13,7 @@ The implementation in MaxMSP is executed within the Gen environment, ensuring hi
 Furthermore, the development in Gen opens up exciting possibilities for future applications. The algorithm can be exported as a standalone Max object, facilitating ease of integration into different MaxMSP projects. Moreover, there is potential for further expansion into a VST format, making this reverb algorithm accessible in a wide range of digital audio workstations. This adaptability ensures that the Dattorro Reverb, in its new MaxMSP incarnation, will be a valuable tool for audio professionals and enthusiasts alike.
 
 **Usage**
+
 There are currently two available forms in this repo. The .gendsp file contains the raw system along with all parameters set in place with their respective min/max values. This version can dropped into MaxMSP projects for quick use or examined. The .mxf file is a standalone visual patcher that can be used to test out and explore the algorithm with your own files or the ones provided in MaxMSP. This version is pre-built and therefor cannot be examined.
 
 **TODO**

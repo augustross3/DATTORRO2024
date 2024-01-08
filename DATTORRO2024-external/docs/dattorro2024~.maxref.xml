@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--If you edit this file, please place it in a safe place since future exports will overwrite this automatically generated reference file.-->
+<c74object name="dattorro2024~">
+<metadatalist>
+<metadata name="author">August Ross</metadata>
+<metadata name="tag">audio</metadata>
+</metadatalist>
+<methodlist>
+<method name="message"><digest>message input</digest><description>message input</description></method>
+</methodlist>
+<attributelist>
+<attribute name="modRate" get="1" set="1" size="1" type="float64">
+<digest>modRate</digest>
+</attribute>
+<attribute name="modAmount" get="1" set="1" size="1" type="float64">
+<digest>modAmount</digest>
+</attribute>
+<attribute name="sizeSpeed" get="1" set="1" size="1" type="float64">
+<digest>sizeSpeed</digest>
+</attribute>
+<attribute name="decay" get="1" set="1" size="1" type="float64">
+<digest>decay</digest>
+</attribute>
+<attribute name="damping" get="1" set="1" size="1" type="float64">
+<digest>damping</digest>
+</attribute>
+<attribute name="deDiff1" get="1" set="1" size="1" type="float64">
+<digest>deDiff1</digest>
+</attribute>
+<attribute name="inDiff2" get="1" set="1" size="1" type="float64">
+<digest>inDiff2</digest>
+</attribute>
+<attribute name="inDiff1" get="1" set="1" size="1" type="float64">
+<digest>inDiff1</digest>
+</attribute>
+<attribute name="roomSize" get="1" set="1" size="1" type="float64">
+<digest>roomSize</digest>
+</attribute>
+<attribute name="bandwidth" get="1" set="1" size="1" type="float64">
+<digest>bandwidth</digest>
+</attribute>
+<attribute name="predelay" get="1" set="1" size="1" type="float64">
+<digest>predelay</digest>
+</attribute>
+</attributelist>
+<description>Recreation of the Dattorro reverb updated for modern usage.</description>
+<digest>Recreation of the Dattorro reverb updated for modern usage.</digest>
+</c74object>

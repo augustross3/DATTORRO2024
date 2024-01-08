@@ -1,0 +1,40 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "bandwidth": {
+        "value": 0.9995
+      },
+      "damping": {
+        "value": 0.0005
+      },
+      "deDiff1": {
+        "value": 0.7
+      },
+      "decay": {
+        "value": 0.5
+      },
+      "inDiff1": {
+        "value": 0.75
+      },
+      "inDiff2": {
+        "value": 0.625
+      },
+      "modAmount": {
+        "value": 0.269
+      },
+      "modRate": {
+        "value": 0.6
+      },
+      "predelay": {
+        "value": 1
+      },
+      "roomSize": {
+        "value": 1
+      },
+      "sizeSpeed": {
+        "value": 1024
+      }
+    }
+  }
+]
